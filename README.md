@@ -1,7 +1,7 @@
 # 장세명과 고현선의 결혼식을 위한 모바일 청첩장
 ![date](https://img.shields.io/date/1667669400.svg?style=for-the-badge)
 
-![메인사진](https://github.com/AndersonChoi/wedding-card/raw/master/docs/images/pic2.jpeg)
+![메인사진](https://github.com/3hreeman/wedding-card/raw/master/docs/images/pic_01.jpg)
 
 ## 예식정보
 
